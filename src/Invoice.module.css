@@ -1,0 +1,37 @@
+/* src/Invoice.module.css */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust height as needed */
+    background-color: #f0f0f0;
+  }
+  
+  .invoice {
+    width: 9.5in;
+    height: auto;
+    border: 1px solid black;
+    padding: 25px;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    background-color: white;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+  }
+  
+  .header p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+  /* Define more styles for other sections as needed */
+  
